@@ -1,6 +1,6 @@
 # Species Distribution Modeling (SDM) Pipeline
 
-https://doi.org/10.5281/zenodo.21420083
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21420083.svg)](https://doi.org/10.5281/zenodo.21420083)
 
 This repository contains the R pipeline to run a complete **Species Distribution Modeling (SDM)** workflow using multiple algorithms, spatial thinning, multicollinearity analysis, and ensemble strategies (*Ensemble Modeling* and *Ensemble of Small Models - ESM*).
 
