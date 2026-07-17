@@ -1,5 +1,7 @@
 # Species Distribution Modeling (SDM) Pipeline
 
+https://doi.org/10.5281/zenodo.21420083
+
 This repository contains the R pipeline to run a complete **Species Distribution Modeling (SDM)** workflow using multiple algorithms, spatial thinning, multicollinearity analysis, and ensemble strategies (*Ensemble Modeling* and *Ensemble of Small Models - ESM*).
 
 The script is structured by default using ***Nasua nasua*** as an example species, but it can easily be adapted for any target species.
